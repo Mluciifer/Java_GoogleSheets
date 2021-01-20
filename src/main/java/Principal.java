@@ -40,7 +40,7 @@ public class Principal {
     /* instacia global de los alcances requeridos por este proyecto*/
 
     private static final List<String> SCOPES = Collections.singletonList(SheetsScopes.SPREADSHEETS);
-    private static final String CREDENTIALS_FILE_PATH = "/client_secret_1037846472894-c2kepjpijevknfacbgia1letddi54vhu.apps.googleusercontent.com (4).json";
+    private static final String CREDENTIALS_FILE_PATH = "/client_secret_1037846472894-c2kepjpijevknfacbgia1letddi54vhu.apps.googleusercontent.com(4).json";
     /* crea un objeto de credencial autorizado 
     @param HTTP_TRANSPORT es el transporte HTTP de la red
     @return devuelve un objeto autorizado
@@ -67,5 +67,7 @@ public class Principal {
              // https://docs.google.com/spreadsheets/d/1BxiMVs0XRA5nFMdKvBdBZjgmUUqptlbs74OgvE2upms/edit
              *el spreadsheetID es el codigo de la cuarta posicion del directorio URL
      */
-  public static void main(String[] args)throws IOException, GeneralSecurityException {}
+  public static void main(String[] args)throws IOException, GeneralSecurityException {
+       
+  }
 }
