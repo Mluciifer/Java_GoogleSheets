@@ -1,0 +1,226 @@
+{
+  "HOJA": [
+    {
+      "6:00-7:30": "KAREN SUAREZ",
+      "SEDES": "PLAZA CENTRAL",
+      "7:30-9:00": "KAREN SUAREZ",
+      "SEDES 2": "PLAZA CENTRAL"
+    },
+    {
+      "6:00-7:30": "RICARDO CALDERON",
+      "SEDES": "MADELENA",
+      "7:30-9:00": "RICARDO CALDERON",
+      "SEDES 2": "MADELENA"
+    },
+    {
+      "6:00-7:30": "DOCENTE",
+      "SEDES": "SEDE:",
+      "7:30-9:00": "DOCENTE",
+      "SEDES 2": "SEDE:"
+    },
+    {
+      "6:00-7:30": "YASBEIDY CASTAÑEDA USECHE",
+      "SEDES": "SEDE:",
+      "7:30-9:00": "MARIA RAMOS",
+      "SEDES 2": "CENTROMAYOR"
+    },
+    {
+      "6:00-7:30": "ANGIE TATIANA LEON",
+      "SEDES": null,
+      "7:30-9:00": "ANGIE TATIANA LEON",
+      "SEDES 2": null
+    },
+    {
+      "6:00-7:30": "NATHALY MAYORGA",
+      "SEDES": null,
+      "7:30-9:00": "NATHALY MAYORGA",
+      "SEDES 2": null
+    },
+    {
+      "6:00-7:30": "FRANCISCO BLANCO",
+      "SEDES": null,
+      "7:30-9:00": "DOCENTE",
+      "SEDES 2": null
+    },
+    {
+      "6:00-7:30": "DOCENTE",
+      "SEDES": null,
+      "7:30-9:00": "DOCENTE",
+      "SEDES 2": null
+    },
+    {
+      "6:00-7:30": "DOCENTE",
+      "SEDES": null,
+      "7:30-9:00": "DOCENTE",
+      "SEDES 2": null
+    },
+    {
+      "6:00-7:30": "DOCENTE",
+      "SEDES": null,
+      "7:30-9:00": "DOCENTE",
+      "SEDES 2": null
+    },
+    {
+      "6:00-7:30": "DOCENTE",
+      "SEDES": null,
+      "7:30-9:00": "DOCENTE",
+      "SEDES 2": null
+    },
+    {
+      "6:00-7:30": "DOCENTE",
+      "SEDES": null,
+      "7:30-9:00": "DOCENTE",
+      "SEDES 2": null
+    },
+    {
+      "6:00-7:30": "DOCENTE",
+      "SEDES": null,
+      "7:30-9:00": "DOCENTE",
+      "SEDES 2": null
+    },
+    {
+      "6:00-7:30": "DOCENTE",
+      "SEDES": null,
+      "7:30-9:00": "DOCENTE",
+      "SEDES 2": null
+    },
+    {
+      "6:00-7:30": "DOCENTE",
+      "SEDES": null,
+      "7:30-9:00": "DOCENTE",
+      "SEDES 2": null
+    },
+    {
+      "6:00-7:30": "DOCENTE",
+      "SEDES": null,
+      "7:30-9:00": "DOCENTE",
+      "SEDES 2": null
+    },
+    {
+      "6:00-7:30": "DOCENTE",
+      "SEDES": null,
+      "7:30-9:00": "DOCENTE",
+      "SEDES 2": null
+    },
+    {
+      "6:00-7:30": "DOCENTE",
+      "SEDES": null,
+      "7:30-9:00": "DOCENTE",
+      "SEDES 2": null
+    },
+    {
+      "6:00-7:30": "DOCENTE",
+      "SEDES": null,
+      "7:30-9:00": "DOCENTE",
+      "SEDES 2": null
+    },
+    {
+      "6:00-7:30": "DOCENTE",
+      "SEDES": null,
+      "7:30-9:00": "DOCENTE",
+      "SEDES 2": null
+    }
+  ],
+  "Hoja 2": [
+    {
+      "NOMBRES": "ERIKA VALDERRAMA",
+      "SEDES": "1",
+      "BLOQUEOS": null
+    },
+    {
+      "NOMBRES": "DIANA BEDOYA",
+      "SEDES": "2",
+      "BLOQUEOS": null
+    },
+    {
+      "NOMBRES": "STEFANNY REYES MANRIQUE",
+      "SEDES": "3",
+      "BLOQUEOS": null
+    },
+    {
+      "NOMBRES": "LEIDY NATALIA MUÑOZ",
+      "SEDES": "4",
+      "BLOQUEOS": null
+    },
+    {
+      "NOMBRES": "OSCAR ANDRES MEDINA",
+      "SEDES": "5",
+      "BLOQUEOS": null
+    },
+    {
+      "NOMBRES": "DOCENTE",
+      "SEDES": "6",
+      "BLOQUEOS": null
+    },
+    {
+      "NOMBRES": "CAMILO BARRERA",
+      "SEDES": "1",
+      "BLOQUEOS": null
+    },
+    {
+      "NOMBRES": "ALEJANDRO DIAZ",
+      "SEDES": "2",
+      "BLOQUEOS": null
+    },
+    {
+      "NOMBRES": "LINA SANDOVAL",
+      "SEDES": "3",
+      "BLOQUEOS": null
+    },
+    {
+      "NOMBRES": "JENNY ROMERO",
+      "SEDES": "4",
+      "BLOQUEOS": null
+    },
+    {
+      "NOMBRES": "DOCENTE",
+      "SEDES": "5",
+      "BLOQUEOS": null
+    },
+    {
+      "NOMBRES": "DOCENTE",
+      "SEDES": "6",
+      "BLOQUEOS": null
+    },
+    {
+      "NOMBRES": "DOCENTE",
+      "SEDES": "1",
+      "BLOQUEOS": null
+    },
+    {
+      "NOMBRES": "DOCENTE",
+      "SEDES": "2",
+      "BLOQUEOS": null
+    },
+    {
+      "NOMBRES": "DOCENTE",
+      "SEDES": "3",
+      "BLOQUEOS": null
+    },
+    {
+      "NOMBRES": "DOCENTE",
+      "SEDES": "4",
+      "BLOQUEOS": null
+    },
+    {
+      "NOMBRES": "DOCENTE",
+      "SEDES": "5",
+      "BLOQUEOS": null
+    },
+    {
+      "NOMBRES": "DOCENTE",
+      "SEDES": "6",
+      "BLOQUEOS": null
+    },
+    {
+      "NOMBRES": "DOCENTE",
+      "SEDES": "2",
+      "BLOQUEOS": null
+    },
+    {
+      "NOMBRES": "DOCENTE",
+      "SEDES": "3",
+      "BLOQUEOS": null
+    }
+  ]
+}

@@ -1,20 +1,24 @@
 apply plugin: 'java'
 apply plugin: 'application'
 
+
+
+mainClassName = 'Principal'
 sourceCompatibility = 1.8
-targetComptibility = 1.8
-[compileJava, compileTestJava]*.options*.encoding = 'UTF-8'
-version: '1.0'
+targetCompatibility = 1.8
+version = '1.8'
 
 
 repositories {
     mavenCentral()
- 
-}
+ }
 
 dependencies {
-     compile 'com.google.api-client:google-api-client:1.30.4'
+    compile 'com.google.api-client:google-api-client:1.30.4'
     compile 'com.google.oauth-client:google-oauth-client-jetty:1.30.6'
     compile 'com.google.apis:google-api-services-sheets:v4-rev581-1.25.0'
-   
+    compile 'com.google.cloud:google-cloud-storage:1.113.5'
+  
+    implementation group: 'com.googlecode.json-simple', name: 'json-simple', version: '1.1'
+    
 }
