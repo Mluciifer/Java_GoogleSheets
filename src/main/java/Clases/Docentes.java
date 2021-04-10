@@ -35,10 +35,12 @@ public class Docentes {
         String cr,cr2,cr3,cr4,vid1,vid2,vid3,vid4;  
      
         public String Spread(String sp){
-            String fg=fn.spreadsheetId=sp;
+           //String fg=fn.spreadsheetId=sp;
+           String fg="";
             return fg;
-     }
+    }
              
+        
                               
         
         public ArrayList Datos(int b1,int b2,String a0,String a1,String a2){

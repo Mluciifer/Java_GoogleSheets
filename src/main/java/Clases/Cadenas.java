@@ -5,8 +5,7 @@ package Clases;
 
 
 public class Cadenas {
-   
-    String spreadsheetId;
+     String spreadsheetId;
     String[] Nombres={"A","J","S","AB","AK","AT","BC","BL","BU","CD","CM","CV","DE","DN","DW","EF","EO","EX","FG","FP"};  
      String[] Bloqueo={"C","L","U","AD","AM","AV","BE","BN","BW","CF","CO","CX","DG","DP","DY","EH","EQ","EZ","FI","FR"}; 
     String[] Info={"C","L","U","AD","AM","AV","BE","BN","BW","CF","CO","CX","DG","DP","DY","EH","EQ","EZ","FI","FR"}; 
@@ -16,7 +15,7 @@ public class Cadenas {
  
     public String getspreadsheetId(){
                 return spreadsheetId;
-    }
+             }
     public String setspradsheetId(String hj){
                 return spreadsheetId=hj;
     }

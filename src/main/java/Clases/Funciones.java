@@ -154,10 +154,11 @@ public class Funciones {
            //final String spreadsheetId="15Lzhev2_xhMx06feltoLLuG4Ykt0_1WrQFAkgDCDmlk";
         
          Cadenas cd=new Cadenas();
-            //final String spreadsheetId="1VG6JKqUSHLQ5Do7s5eXga3EOb7RZGBctkP6X_9hPiow";
-            String spreadsheetId;
+          //  final String spreadsheetId="1VG6JKqUSHLQ5Do7s5eXga3EOb7RZGBctkP6X_9hPiow";
+         //String cv=String.valueOf(Clases.Diseno.Link.getText());
+           String spreadsheetId;
          public String Buscador(String hj)throws IOException,GeneralSecurityException{
-                 
+                 final String spreadsheetId=Clases.Diseno.Link.getText();
              List<List<Object>> values;
              ValueRange result;
             

@@ -11,9 +11,7 @@ package AreasT;
  */
 public class AreaTexto10 extends javax.swing.JFrame {
 
-    /**
-     * Creates new form AreaTexto10
-     */
+      
     public AreaTexto10() {
         initComponents();
     }

@@ -25,14 +25,17 @@ public class AreaTexto1 extends javax.swing.JFrame {
      */
 
     public  DefaultListModel lista1=new DefaultListModel();
-    
-
+        Clases.Funciones fn =new Clases.Funciones();
+           
+            Clases.Docentes dc =new Clases.Docentes();
+           
     
     public AreaTexto1() {
       
             initComponents();
-            
-      
+        
+     
+
             
             
        
@@ -101,15 +104,19 @@ public class AreaTexto1 extends javax.swing.JFrame {
     
     private void Texto1ValueChanged(javax.swing.event.ListSelectionEvent evt) {//GEN-FIRST:event_Texto1ValueChanged
         try {
+            
             Clases.TextosTabla tx=new Clases.TextosTabla();
-            Clases.Docentes dc =new Clases.Docentes();
-            Clases.Diseno.Link.getText();
-            dc.Spread(Clases.Diseno.Link.getText());
-            switch(Texto1.getSelectedIndex()){
+          //  dc.Spread(Clases.Diseno.Link.getText());
+            //  Clases.Diseno.Link.getText();
+          
+            
+                       switch(Texto1.getSelectedIndex()){
                 case 2:
+                    System.out.print(fn.Buscador("B8"));
                     Clases.TextosTabla.Textos.setText(" ");
                     String uu=Texto1.getSelectedValue(); 
-                   ;
+                    
+                    
                     if(JOptionPane.showConfirmDialog(null,uu)==1 ||JOptionPane.showConfirmDialog(null,uu)==2){
                         break;
                     }else{
